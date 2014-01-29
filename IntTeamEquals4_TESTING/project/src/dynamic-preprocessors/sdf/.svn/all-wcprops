@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/sdf
+END
+sdf_us_ssn.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/sdf/sdf_us_ssn.h
+END
+spp_sdf.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/sdf/spp_sdf.c
+END
+sdf_credit_card.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/sdf/sdf_credit_card.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/sdf/Makefile.in
+END
+sdf_detection_option.c
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/sdf/sdf_detection_option.c
+END
+spp_sdf.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/sdf/spp_sdf.h
+END
+sdf_credit_card.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/sdf/sdf_credit_card.h
+END
+sdf_pattern_match.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/sdf/sdf_pattern_match.c
+END
+sdf_us_ssn.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/sdf/sdf_us_ssn.c
+END
+sdf_detection_option.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/sdf/sdf_detection_option.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/sdf/Makefile.am
+END
+sf_sdf.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/sdf/sf_sdf.dsp
+END
+sdf_pattern_match.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/sdf/sdf_pattern_match.h
+END

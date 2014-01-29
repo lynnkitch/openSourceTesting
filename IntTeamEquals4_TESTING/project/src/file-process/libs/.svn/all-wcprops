@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/file-process/libs
+END
+file_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/file-process/libs/file_config.c
+END
+file_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/file-process/libs/file_lib.c
+END
+file_identifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/file-process/libs/file_identifier.h
+END
+file_sha256.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/file-process/libs/file_sha256.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/file-process/libs/Makefile.am
+END
+file_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/file-process/libs/file_config.h
+END
+file_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/file-process/libs/file_lib.h
+END
+file_sha256.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/file-process/libs/file_sha256.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/file-process/libs/Makefile.in
+END
+file_identifier.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/file-process/libs/file_identifier.c
+END

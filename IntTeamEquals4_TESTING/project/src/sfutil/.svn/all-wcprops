@@ -1,0 +1,575 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil
+END
+sfghash.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sfghash.c
+END
+util_net.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/util_net.c
+END
+util_unfold.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/util_unfold.c
+END
+sfrim.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sfrim.h
+END
+sfPolicyUserData.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sfPolicyUserData.h
+END
+sfghash.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sfghash.h
+END
+util_net.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/util_net.h
+END
+util_unfold.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/util_unfold.h
+END
+segment_mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/segment_mem.c
+END
+mpse.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/mpse.c
+END
+segment_mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/segment_mem.h
+END
+sf_email_attach_decode.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sf_email_attach_decode.c
+END
+getopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/getopt.h
+END
+sf_iph.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sf_iph.c
+END
+mpse.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/mpse.h
+END
+sfksearch.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sfksearch.c
+END
+sf_email_attach_decode.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sf_email_attach_decode.h
+END
+sfrt_dir.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sfrt_dir.c
+END
+sf_iph.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sf_iph.h
+END
+sfprimetable.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sfprimetable.c
+END
+sf_textlog.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sf_textlog.c
+END
+sfksearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sfksearch.h
+END
+sfrt_dir.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sfrt_dir.h
+END
+getopt_long.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/getopt_long.c
+END
+bitop.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/bitop.h
+END
+sfprimetable.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sfprimetable.h
+END
+sf_textlog.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sf_textlog.h
+END
+sfsnprintfappend.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sfsnprintfappend.c
+END
+util_math.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/util_math.c
+END
+sfPolicy.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sfPolicy.c
+END
+sfsnprintfappend.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sfsnprintfappend.h
+END
+util_math.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/util_math.h
+END
+sfmemcap.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sfmemcap.c
+END
+util_utf.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/util_utf.c
+END
+sfPolicy.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sfPolicy.h
+END
+sf_ip.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sf_ip.c
+END
+sfrf.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sfrf.c
+END
+sfmemcap.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sfmemcap.h
+END
+util_utf.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/util_utf.h
+END
+intel-soft-cpm.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/intel-soft-cpm.c
+END
+sfhashfcn.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sfhashfcn.c
+END
+sf_ip.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sf_ip.h
+END
+util_jsnorm.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/util_jsnorm.c
+END
+sfrf.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sfrf.h
+END
+util_str.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/util_str.c
+END
+intel-soft-cpm.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/intel-soft-cpm.h
+END
+strvec.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/strvec.c
+END
+sfhashfcn.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sfhashfcn.h
+END
+util_str.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/util_str.h
+END
+util_jsnorm.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/util_jsnorm.h
+END
+strvec.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/strvec.h
+END
+sfrt.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sfrt.c
+END
+sfrt_flat_dir.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sfrt_flat_dir.c
+END
+sfrt.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sfrt.h
+END
+sfrt_flat_dir.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sfrt_flat_dir.h
+END
+getopt1.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/getopt1.h
+END
+sflsq.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sflsq.c
+END
+sflsq.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sflsq.h
+END
+ipobj.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/ipobj.c
+END
+sfportobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sfportobject.c
+END
+sfxhash.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sfxhash.c
+END
+ipobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/ipobj.h
+END
+sfthd.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sfthd.c
+END
+sfportobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sfportobject.h
+END
+sf_ipvar.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sf_ipvar.c
+END
+sfxhash.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sfxhash.h
+END
+acsmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/acsmx.c
+END
+sfthd.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sfthd.h
+END
+sf_ipvar.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sf_ipvar.h
+END
+sf_base64decode.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sf_base64decode.c
+END
+acsmx.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/acsmx.h
+END
+Unified2_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/Unified2_common.h
+END
+sfrt_flat.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sfrt_flat.c
+END
+sf_base64decode.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sf_base64decode.h
+END
+sfPolicyData.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sfPolicyData.h
+END
+sf_vartable.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sf_vartable.c
+END
+sf_seqnums.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sf_seqnums.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/Makefile.am
+END
+sfrt_flat.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sfrt_flat.h
+END
+bnfa_search.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/bnfa_search.c
+END
+sfeventq.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sfeventq.c
+END
+sf_vartable.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sf_vartable.h
+END
+acsmx2.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/acsmx2.c
+END
+bnfa_search.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/bnfa_search.h
+END
+sfeventq.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sfeventq.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/Makefile.in
+END
+acsmx2.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/acsmx2.h
+END
+asn1.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/asn1.c
+END
+sfrt_trie.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sfrt_trie.h
+END
+asn1.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/asn1.h
+END
+sfActionQueue.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sfActionQueue.c
+END
+bitop_funcs.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/bitop_funcs.h
+END
+sfActionQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sfActionQueue.h
+END
+sfrim.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sfrim.c
+END
+sfPolicyUserData.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/sfutil/sfPolicyUserData.c
+END

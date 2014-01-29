@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/Stream5
+END
+snort_stream5_udp.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/Stream5/snort_stream5_udp.h
+END
+snort_stream5_icmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/Stream5/snort_stream5_icmp.h
+END
+stream5_ha.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/Stream5/stream5_ha.c
+END
+stream5_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/Stream5/stream5_common.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/Stream5/Makefile.am
+END
+stream5_ha.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/Stream5/stream5_ha.h
+END
+stream5_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/Stream5/stream5_common.h
+END
+snort_stream5_ip.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/Stream5/snort_stream5_ip.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/Stream5/Makefile.in
+END
+snort_stream5_ip.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/Stream5/snort_stream5_ip.h
+END
+stream5_paf.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/Stream5/stream5_paf.c
+END
+snort_stream5_session.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/Stream5/snort_stream5_session.c
+END
+snort_stream5_tcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/Stream5/snort_stream5_tcp.c
+END
+stream5_paf.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/Stream5/stream5_paf.h
+END
+snort_stream5_udp.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/Stream5/snort_stream5_udp.c
+END
+snort_stream5_session.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/Stream5/snort_stream5_session.h
+END
+snort_stream5_icmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/Stream5/snort_stream5_icmp.c
+END
+snort_stream5_tcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/Stream5/snort_stream5_tcp.h
+END

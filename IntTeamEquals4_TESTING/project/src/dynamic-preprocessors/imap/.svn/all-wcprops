@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/imap
+END
+spp_imap.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/imap/spp_imap.h
+END
+imap_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/imap/imap_config.h
+END
+snort_imap.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/imap/snort_imap.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/imap/Makefile.in
+END
+sf_imap.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/imap/sf_imap.dsp
+END
+imap_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/imap/imap_util.c
+END
+imap_log.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/imap/imap_log.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/imap/Makefile.am
+END
+imap_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/imap/imap_util.h
+END
+spp_imap.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/imap/spp_imap.c
+END
+imap_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/imap/imap_config.c
+END
+snort_imap.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/imap/snort_imap.c
+END
+imap_log.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/imap/imap_log.h
+END

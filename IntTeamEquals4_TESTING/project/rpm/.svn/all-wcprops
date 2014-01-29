@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/rpm
+END
+snort.sysconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/rpm/snort.sysconfig
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/rpm/Makefile.am
+END
+snortd
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/rpm/snortd
+END
+README.build_rpms
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/rpm/README.build_rpms
+END
+README.rpms
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/rpm/README.rpms
+END
+snort.spec
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/rpm/snort.spec
+END
+generate-all-rpms
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/rpm/generate-all-rpms
+END
+RPM-TODO
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/rpm/RPM-TODO
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/rpm/Makefile.in
+END
+snort.logrotate
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/rpm/snort.logrotate
+END

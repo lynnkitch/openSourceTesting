@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/smtp
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/smtp/Makefile.in
+END
+smtp_normalize.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/smtp/smtp_normalize.c
+END
+spp_smtp.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/smtp/spp_smtp.c
+END
+snort_smtp.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/smtp/snort_smtp.c
+END
+smtp_normalize.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/smtp/smtp_normalize.h
+END
+smtp_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/smtp/smtp_config.c
+END
+spp_smtp.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/smtp/spp_smtp.h
+END
+smtp_xlink2state.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/smtp/smtp_xlink2state.c
+END
+snort_smtp.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/smtp/snort_smtp.h
+END
+smtp_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/smtp/smtp_config.h
+END
+sf_smtp.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/smtp/sf_smtp.dsp
+END
+smtp_xlink2state.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/smtp/smtp_xlink2state.h
+END
+smtp_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/smtp/smtp_util.c
+END
+smtp_log.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/smtp/smtp_log.c
+END
+smtp_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/smtp/smtp_util.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/smtp/Makefile.am
+END
+smtp_log.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/smtp/smtp_log.h
+END

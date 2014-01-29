@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-plugins
+END
+sf_dynamic_detection.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-plugins/sf_dynamic_detection.h
+END
+sf_convert_dynamic.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-plugins/sf_convert_dynamic.h
+END
+sp_dynamic.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-plugins/sp_dynamic.c
+END
+sf_dynamic_preprocessor.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-plugins/sf_dynamic_preprocessor.h
+END
+sf_dynamic_meta.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-plugins/sf_dynamic_meta.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-plugins/Makefile.am
+END
+sf_dynamic_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-plugins/sf_dynamic_common.h
+END
+sf_dynamic_define.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-plugins/sf_dynamic_define.h
+END
+sp_dynamic.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-plugins/sp_dynamic.h
+END
+sp_preprocopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-plugins/sp_preprocopt.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-plugins/Makefile.in
+END
+sp_preprocopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-plugins/sp_preprocopt.h
+END
+sf_dynamic_engine.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-plugins/sf_dynamic_engine.h
+END
+sf_convert_dynamic.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-plugins/sf_convert_dynamic.c
+END
+sf_dynamic_side_channel.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-plugins/sf_dynamic_side_channel.h
+END
+sf_dynamic_plugins.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-plugins/sf_dynamic_plugins.c
+END

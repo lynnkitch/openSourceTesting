@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/file-process
+END
+file_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/file-process/file_api.h
+END
+file_resume_block.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/file-process/file_resume_block.h
+END
+file_service.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/file-process/file_service.c
+END
+file_mime_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/file-process/file_mime_config.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/file-process/Makefile.in
+END
+file_mime_process.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/file-process/file_mime_process.c
+END
+file_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/file-process/file_service.h
+END
+file_service_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/file-process/file_service_config.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/file-process/Makefile.am
+END
+file_mime_process.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/file-process/file_mime_process.h
+END
+file_resume_block.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/file-process/file_resume_block.c
+END
+file_service_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/file-process/file_service_config.h
+END
+file_mime_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/file-process/file_mime_config.c
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/preproc_rules
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/preproc_rules/Makefile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/preproc_rules/Makefile.am
+END
+sensitive-data.rules
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/preproc_rules/sensitive-data.rules
+END
+decoder.rules
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/preproc_rules/decoder.rules
+END
+preprocessor.rules
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/preproc_rules/preprocessor.rules
+END

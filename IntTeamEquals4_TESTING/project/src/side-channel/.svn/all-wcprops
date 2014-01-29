@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/side-channel
+END
+sidechannel_define.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/side-channel/sidechannel_define.h
+END
+sidechannel.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/side-channel/sidechannel.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/side-channel/Makefile.in
+END
+dmq.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/side-channel/dmq.c
+END
+rbmq.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/side-channel/rbmq.c
+END
+sidechannel.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/side-channel/sidechannel.h
+END
+dmq.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/side-channel/dmq.h
+END
+rbmq.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/side-channel/rbmq.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/side-channel/Makefile.am
+END

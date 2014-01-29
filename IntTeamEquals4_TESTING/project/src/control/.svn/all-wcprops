@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/control
+END
+sfcontrol_funcs.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/control/sfcontrol_funcs.h
+END
+sfcontrol.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/control/sfcontrol.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/control/Makefile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/control/Makefile.am
+END
+sfcontrol.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/control/sfcontrol.c
+END

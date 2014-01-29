@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/output-plugins
+END
+spo_unified2.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/output-plugins/spo_unified2.c
+END
+spo_alert_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/output-plugins/spo_alert_test.c
+END
+spo_alert_syslog.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/output-plugins/spo_alert_syslog.c
+END
+spo_alert_sf_socket.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/output-plugins/spo_alert_sf_socket.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/output-plugins/Makefile.am
+END
+spo_unified2.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/output-plugins/spo_unified2.h
+END
+spo_alert_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/output-plugins/spo_alert_test.h
+END
+spo_log_null.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/output-plugins/spo_log_null.c
+END
+spo_alert_syslog.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/output-plugins/spo_alert_syslog.h
+END
+spo_alert_sf_socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/output-plugins/spo_alert_sf_socket.h
+END
+spo_log_tcpdump.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/output-plugins/spo_log_tcpdump.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/output-plugins/Makefile.in
+END
+spo_log_null.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/output-plugins/spo_log_null.h
+END
+spo_log_tcpdump.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/output-plugins/spo_log_tcpdump.h
+END
+spo_alert_fast.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/output-plugins/spo_alert_fast.c
+END
+spo_alert_full.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/output-plugins/spo_alert_full.c
+END
+spo_alert_fast.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/output-plugins/spo_alert_fast.h
+END
+spo_log_ascii.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/output-plugins/spo_log_ascii.c
+END
+spo_alert_unixsock.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/output-plugins/spo_alert_unixsock.c
+END
+spo_csv.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/output-plugins/spo_csv.c
+END
+spo_alert_full.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/output-plugins/spo_alert_full.h
+END
+spo_log_ascii.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/output-plugins/spo_log_ascii.h
+END
+spo_alert_unixsock.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/output-plugins/spo_alert_unixsock.h
+END
+spo_csv.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/output-plugins/spo_csv.h
+END

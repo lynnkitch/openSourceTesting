@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/client
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/client/Makefile.am
+END
+hi_client_norm.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/client/hi_client_norm.c
+END
+hi_client.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/client/hi_client.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/client/Makefile.in
+END

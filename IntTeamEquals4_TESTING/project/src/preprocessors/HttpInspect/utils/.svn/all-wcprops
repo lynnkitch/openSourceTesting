@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/utils
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/utils/Makefile.am
+END
+hi_cmd_lookup.c
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/utils/hi_cmd_lookup.c
+END
+hi_util_xmalloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/utils/hi_util_xmalloc.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/utils/Makefile.in
+END
+hi_util_hbm.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/utils/hi_util_hbm.c
+END
+hi_util_kmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/utils/hi_util_kmap.c
+END
+hi_paf.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/utils/hi_paf.c
+END

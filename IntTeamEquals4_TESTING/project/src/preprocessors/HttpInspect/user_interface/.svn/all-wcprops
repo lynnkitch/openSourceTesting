@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/user_interface
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/user_interface/Makefile.in
+END
+hi_ui_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/user_interface/hi_ui_config.c
+END
+hi_ui_iis_unicode_map.c
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/user_interface/hi_ui_iis_unicode_map.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/user_interface/Makefile.am
+END
+hi_ui_server_lookup.c
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/user_interface/hi_ui_server_lookup.c
+END

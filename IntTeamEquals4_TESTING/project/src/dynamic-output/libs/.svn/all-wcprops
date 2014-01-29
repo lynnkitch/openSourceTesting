@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-output/libs
+END
+snort_output.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-output/libs/snort_output.pc.in
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-output/libs/Makefile.in
+END
+output_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-output/libs/output_lib.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-output/libs/Makefile.am
+END

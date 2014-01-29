@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/CSCI362201302/!svn/ver/501/team4/IntTeamEquals4_TESTING/scripts
+END
+faults
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/CSCI362201302/!svn/ver/501/team4/IntTeamEquals4_TESTING/scripts/faults
+END
+build
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/CSCI362201302/!svn/ver/452/team4/IntTeamEquals4_TESTING/scripts/build
+END
+runAllTests
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/CSCI362201302/!svn/ver/490/team4/IntTeamEquals4_TESTING/scripts/runAllTests
+END

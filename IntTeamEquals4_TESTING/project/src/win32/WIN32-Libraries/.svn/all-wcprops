@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/win32/WIN32-Libraries
+END
+Packet.lib
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/win32/WIN32-Libraries/Packet.lib
+END
+.cvswrappers
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/win32/WIN32-Libraries/.cvswrappers
+END
+pcre.lib
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/win32/WIN32-Libraries/pcre.lib
+END
+wpcap.lib
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/win32/WIN32-Libraries/wpcap.lib
+END
+zlib.lib
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/win32/WIN32-Libraries/zlib.lib
+END
+zlib1.lib
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/win32/WIN32-Libraries/zlib1.lib
+END

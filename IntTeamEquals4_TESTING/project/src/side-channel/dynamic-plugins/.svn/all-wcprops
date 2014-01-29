@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/side-channel/dynamic-plugins
+END
+snort_side_channel.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/side-channel/dynamic-plugins/snort_side_channel.pc.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/side-channel/dynamic-plugins/Makefile.am
+END
+sf_dynamic_side_channel_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/side-channel/dynamic-plugins/sf_dynamic_side_channel_lib.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/side-channel/dynamic-plugins/Makefile.in
+END
+sf_dynamic_side_channel_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/side-channel/dynamic-plugins/sf_dynamic_side_channel_lib.h
+END
+sf_side_channel_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/side-channel/dynamic-plugins/sf_side_channel_info.h
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/dns
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/dns/Makefile.am
+END
+spp_dns.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/dns/spp_dns.h
+END
+sf_dns.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/dns/sf_dns.dsp
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/dns/Makefile.in
+END
+spp_dns.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-preprocessors/dns/spp_dns.c
+END

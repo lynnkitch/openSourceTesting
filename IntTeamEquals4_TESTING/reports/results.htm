@@ -1,0 +1,934 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset = "UTF-8">
+<title>Testing Snort</title><link href="css/style.css" rel ="stylesheet"><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script><script src="js/app.js"></script><script src="js/opentip-jquery.js"></script><link rel="stylesheet" href="css/opentip.css">
+</head>
+<body>
+<div class = "headercontainer">
+<div class = "header">
+<img src="img/logo.png" alt="int team = 4;"></img>
+</div>
+</div>
+<div class = "main">
+<div class = "cell">
+<div class = "hcolumn">Test Case</div>
+</div>
+<div class = "cell">
+<div class = "hcolumn">Method</div>
+</div>
+<div class = "cell">
+<div class = "hcolumn">Inputs</div>
+</div>
+<div class = "cell">
+<div class = "hcolumn">Oracle</div>
+</div>
+<div class = "cell">
+<div class = "hcolumn">Output</div>
+</div>
+<div class = "cell">
+<div class = "hcolumn">Results</div>
+</div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Returns the percentage of the first argument as a part of the second argument.">testCase101</div></div>
+<div class = "cell">
+<div class="dcolumn">
+CalcPct</div></div>
+<div class = "cell">
+<div class="dcolumn">
+0,0</div></div>
+<div class = "cell">
+<div class="dcolumn">
+0</div></div>
+<div class = "cell">
+<div class="dcolumn">
+0</div></div>
+<div class = "cell">
+<div class = "pcolumn">
+Pass</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Returns the percentage of the first argument as a part of the second argument.">testCase102</div></div>
+<div class = "cell">
+<div class="dcolumn">
+CalcPct</div></div>
+<div class = "cell">
+<div class="dcolumn">
+1,1</div></div>
+<div class = "cell">
+<div class="dcolumn">
+100</div></div>
+<div class = "cell">
+<div class="dcolumn">
+100</div></div>
+<div class = "cell">
+<div class = "pcolumn">
+Pass</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Returns the percentage of the first argument as a part of the second argument.">testCase103</div></div>
+<div class = "cell">
+<div class="dcolumn">
+CalcPct</div></div>
+<div class = "cell">
+<div class="dcolumn">
+0.5,0.5</div></div>
+<div class = "cell">
+<div class="dcolumn">
+0</div></div>
+<div class = "cell">
+<div class="dcolumn">
+0</div></div>
+<div class = "cell">
+<div class = "pcolumn">
+Pass</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Returns the percentage of the first argument as a part of the second argument.">testCase104</div></div>
+<div class = "cell">
+<div class="dcolumn">
+CalcPct</div></div>
+<div class = "cell">
+<div class="dcolumn">
+1,2</div></div>
+<div class = "cell">
+<div class="dcolumn">
+50</div></div>
+<div class = "cell">
+<div class="dcolumn">
+50</div></div>
+<div class = "cell">
+<div class = "pcolumn">
+Pass</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Returns the percentage of the first argument as a part of the second argument.">testCase105</div></div>
+<div class = "cell">
+<div class="dcolumn">
+CalcPct</div></div>
+<div class = "cell">
+<div class="dcolumn">
+2,1</div></div>
+<div class = "cell">
+<div class="dcolumn">
+200</div></div>
+<div class = "cell">
+<div class="dcolumn">
+200</div></div>
+<div class = "cell">
+<div class = "pcolumn">
+Pass</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Returns the percentage of the first argument as a part of the second argument.">testCase106</div></div>
+<div class = "cell">
+<div class="dcolumn">
+CalcPct</div></div>
+<div class = "cell">
+<div class="dcolumn">
+1,0xFFFFFFFFFFFFFFFF</div></div>
+<div class = "cell">
+<div class="dcolumn">
+5.42101e-18</div></div>
+<div class = "cell">
+<div class="dcolumn">
+5.42101e-18</div></div>
+<div class = "cell">
+<div class = "pcolumn">
+Pass</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Does not compile if the correct parameters are not passed in. ">testCase107</div></div>
+<div class = "cell">
+<div class="dcolumn">
+CalcPct</div></div>
+<div class = "cell">
+<div class="dcolumn">
+"A",1</div></div>
+<div class = "cell">
+<div class="dcolumn">
+DNC</div></div>
+<div class = "cell">
+<div class="dcolumn">
+DNC</div></div>
+<div class = "cell">
+<div class = "pcolumn">
+Pass</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Does not compile if the correct sparameters are not passed in.">testCase108</div></div>
+<div class = "cell">
+<div class="dcolumn">
+CalcPct</div></div>
+<div class = "cell">
+<div class="dcolumn">
+1,"A"</div></div>
+<div class = "cell">
+<div class="dcolumn">
+DNC</div></div>
+<div class = "cell">
+<div class="dcolumn">
+DNC</div></div>
+<div class = "cell">
+<div class = "pcolumn">
+Pass</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Does not compile if the correct parameters are not passed in. ">testCase109</div></div>
+<div class = "cell">
+<div class="dcolumn">
+CalcPct</div></div>
+<div class = "cell">
+<div class="dcolumn">
+"A","A"</div></div>
+<div class = "cell">
+<div class="dcolumn">
+DNC</div></div>
+<div class = "cell">
+<div class="dcolumn">
+DNC</div></div>
+<div class = "cell">
+<div class = "pcolumn">
+Pass</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Does not compile if the correct parameters are not passed in.">testCase110</div></div>
+<div class = "cell">
+<div class="dcolumn">
+CalcPct</div></div>
+<div class = "cell">
+<div class="dcolumn">
+ , </div></div>
+<div class = "cell">
+<div class="dcolumn">
+DNC</div></div>
+<div class = "cell">
+<div class="dcolumn">
+DNC</div></div>
+<div class = "cell">
+<div class = "pcolumn">
+Pass</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Does not compile if the correct parameters are not passed in. ">testCase111</div></div>
+<div class = "cell">
+<div class="dcolumn">
+CalcPct</div></div>
+<div class = "cell">
+<div class="dcolumn">
+ ,1</div></div>
+<div class = "cell">
+<div class="dcolumn">
+DNC</div></div>
+<div class = "cell">
+<div class="dcolumn">
+DNC</div></div>
+<div class = "cell">
+<div class = "pcolumn">
+Pass</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Does not compile if the correct parameters are not passed in. ">testCase112</div></div>
+<div class = "cell">
+<div class="dcolumn">
+CalcPct</div></div>
+<div class = "cell">
+<div class="dcolumn">
+1, </div></div>
+<div class = "cell">
+<div class="dcolumn">
+DNC</div></div>
+<div class = "cell">
+<div class="dcolumn">
+DNC</div></div>
+<div class = "cell">
+<div class = "pcolumn">
+Pass</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Returns the percentage of the first argument as a part of the second argument.">testCase113</div></div>
+<div class = "cell">
+<div class="dcolumn">
+CalcPct</div></div>
+<div class = "cell">
+<div class="dcolumn">
+-1,-1</div></div>
+<div class = "cell">
+<div class="dcolumn">
+100</div></div>
+<div class = "cell">
+<div class="dcolumn">
+100</div></div>
+<div class = "cell">
+<div class = "pcolumn">
+Pass</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Returns the length of a null terminated string in the argument or SNORT_STRNLEN_ERROR / -1 if not null terminated.">testCase201</div></div>
+<div class = "cell">
+<div class="dcolumn">
+SnortStrnlen</div></div>
+<div class = "cell">
+<div class="dcolumn">
+NULL,NULL</div></div>
+<div class = "cell">
+<div class="dcolumn">
+-1</div></div>
+<div class = "cell">
+<div class="dcolumn">
+-1</div></div>
+<div class = "cell">
+<div class = "pcolumn">
+Pass</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Returns the length of a null terminated string in the argument or SNORT_STRNLEN_ERROR / -1 if not null terminated.">testCase202</div></div>
+<div class = "cell">
+<div class="dcolumn">
+SnortStrnlen</div></div>
+<div class = "cell">
+<div class="dcolumn">
+NULL,1</div></div>
+<div class = "cell">
+<div class="dcolumn">
+-1</div></div>
+<div class = "cell">
+<div class="dcolumn">
+-1</div></div>
+<div class = "cell">
+<div class = "pcolumn">
+Pass</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Does not compile if the correct parameters are not passed in.">testCase203</div></div>
+<div class = "cell">
+<div class="dcolumn">
+SnortStrnlen</div></div>
+<div class = "cell">
+<div class="dcolumn">
+'a',NULL</div></div>
+<div class = "cell">
+<div class="dcolumn">
+DNC</div></div>
+<div class = "cell">
+<div class="dcolumn">
+DNC</div></div>
+<div class = "cell">
+<div class = "pcolumn">
+Pass</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Returns the length of a null terminated string in the argument or SNORT_STRNLEN_ERROR / -1 if not null terminated.">testCase204</div></div>
+<div class = "cell">
+<div class="dcolumn">
+SnortStrnlen</div></div>
+<div class = "cell">
+<div class="dcolumn">
+"a",NULL</div></div>
+<div class = "cell">
+<div class="dcolumn">
+-1</div></div>
+<div class = "cell">
+<div class="dcolumn">
+-1</div></div>
+<div class = "cell">
+<div class = "pcolumn">
+Pass</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Does not compile if the correct parameters are not passed in.">testCase205</div></div>
+<div class = "cell">
+<div class="dcolumn">
+SnortStrnlen</div></div>
+<div class = "cell">
+<div class="dcolumn">
+'a',0</div></div>
+<div class = "cell">
+<div class="dcolumn">
+DNC</div></div>
+<div class = "cell">
+<div class="dcolumn">
+DNC</div></div>
+<div class = "cell">
+<div class = "pcolumn">
+Pass</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Returns the length of a null terminated string in the argument or SNORT_STRNLEN_ERROR / -1 if not null terminated.">testCase206</div></div>
+<div class = "cell">
+<div class="dcolumn">
+SnortStrnlen</div></div>
+<div class = "cell">
+<div class="dcolumn">
+"a",0</div></div>
+<div class = "cell">
+<div class="dcolumn">
+-1</div></div>
+<div class = "cell">
+<div class="dcolumn">
+-1</div></div>
+<div class = "cell">
+<div class = "pcolumn">
+Pass</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Returns the length of a null terminated string in the argument or SNORT_STRNLEN_ERROR / -1 if not null terminated.">testCase207</div></div>
+<div class = "cell">
+<div class="dcolumn">
+SnortStrnlen</div></div>
+<div class = "cell">
+<div class="dcolumn">
+"a",1</div></div>
+<div class = "cell">
+<div class="dcolumn">
+-1</div></div>
+<div class = "cell">
+<div class="dcolumn">
+-1</div></div>
+<div class = "cell">
+<div class = "pcolumn">
+Pass</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Does not compile if the correct parameters are not passed in.">testCase208</div></div>
+<div class = "cell">
+<div class="dcolumn">
+SnortStrnlen</div></div>
+<div class = "cell">
+<div class="dcolumn">
+'a',1</div></div>
+<div class = "cell">
+<div class="dcolumn">
+DNC</div></div>
+<div class = "cell">
+<div class="dcolumn">
+DNC</div></div>
+<div class = "cell">
+<div class = "pcolumn">
+Pass</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Does not compile if the correct parameters are not passed in.">testCase209</div></div>
+<div class = "cell">
+<div class="dcolumn">
+SnortStrnlen</div></div>
+<div class = "cell">
+<div class="dcolumn">
+'a',2</div></div>
+<div class = "cell">
+<div class="dcolumn">
+DNC</div></div>
+<div class = "cell">
+<div class="dcolumn">
+DNC</div></div>
+<div class = "cell">
+<div class = "pcolumn">
+Pass</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Returns the length of a null terminated string in the argument or SNORT_STRNLEN_ERROR / -1 if not null terminated.">testCase210</div></div>
+<div class = "cell">
+<div class="dcolumn">
+SnortStrnlen</div></div>
+<div class = "cell">
+<div class="dcolumn">
+"a",2</div></div>
+<div class = "cell">
+<div class="dcolumn">
+1</div></div>
+<div class = "cell">
+<div class="dcolumn">
+1</div></div>
+<div class = "cell">
+<div class = "pcolumn">
+Pass</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Does not compile if the correct parameters are not passed in.">testCase211</div></div>
+<div class = "cell">
+<div class="dcolumn">
+SnortStrnlen</div></div>
+<div class = "cell">
+<div class="dcolumn">
+ , </div></div>
+<div class = "cell">
+<div class="dcolumn">
+DNC</div></div>
+<div class = "cell">
+<div class="dcolumn">
+DNC</div></div>
+<div class = "cell">
+<div class = "pcolumn">
+Pass</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Does not compile if the correct parameters are not passed in.">testCase212</div></div>
+<div class = "cell">
+<div class="dcolumn">
+SnortStrnlen</div></div>
+<div class = "cell">
+<div class="dcolumn">
+ ,0</div></div>
+<div class = "cell">
+<div class="dcolumn">
+DNC</div></div>
+<div class = "cell">
+<div class="dcolumn">
+DNC</div></div>
+<div class = "cell">
+<div class = "pcolumn">
+Pass</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Does not compile if the correct parameters are not passed in.">testCase213</div></div>
+<div class = "cell">
+<div class="dcolumn">
+SnortStrnlen</div></div>
+<div class = "cell">
+<div class="dcolumn">
+"a", </div></div>
+<div class = "cell">
+<div class="dcolumn">
+DNC</div></div>
+<div class = "cell">
+<div class="dcolumn">
+DNC</div></div>
+<div class = "cell">
+<div class = "pcolumn">
+Pass</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Returns the correct offset between gmt and local for the current time if it is standard time.">testCase301</div></div>
+<div class = "cell">
+<div class="dcolumn">
+gmt2local</div></div>
+<div class = "cell">
+<div class="dcolumn">
+0</div></div>
+<div class = "cell">
+<div class="dcolumn">
+-18000</div></div>
+<div class = "cell">
+<div class="dcolumn">
+-28800</div></div>
+<div class = "cell">
+<div class = "fcolumn">
+Fail</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Returns the correct offset between gmt and local in unix time. ">testCase302</div></div>
+<div class = "cell">
+<div class="dcolumn">
+gmt2local</div></div>
+<div class = "cell">
+<div class="dcolumn">
+8192</div></div>
+<div class = "cell">
+<div class="dcolumn">
+-18000</div></div>
+<div class = "cell">
+<div class="dcolumn">
+-28800</div></div>
+<div class = "cell">
+<div class = "fcolumn">
+Fail</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Returns the correct offset between gmt and local in unix time.">testCase303</div></div>
+<div class = "cell">
+<div class="dcolumn">
+gmt2local</div></div>
+<div class = "cell">
+<div class="dcolumn">
+31536000</div></div>
+<div class = "cell">
+<div class="dcolumn">
+-18000</div></div>
+<div class = "cell">
+<div class="dcolumn">
+-28800</div></div>
+<div class = "cell">
+<div class = "fcolumn">
+Fail</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Returns the correct offset between gmt and local in unix time.">testCase304</div></div>
+<div class = "cell">
+<div class="dcolumn">
+gmt2local</div></div>
+<div class = "cell">
+<div class="dcolumn">
+1</div></div>
+<div class = "cell">
+<div class="dcolumn">
+-18000</div></div>
+<div class = "cell">
+<div class="dcolumn">
+-28800</div></div>
+<div class = "cell">
+<div class = "fcolumn">
+Fail</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Returns the correct offset between gmt and local in unix time.">testCase305</div></div>
+<div class = "cell">
+<div class="dcolumn">
+gmt2local</div></div>
+<div class = "cell">
+<div class="dcolumn">
+-1</div></div>
+<div class = "cell">
+<div class="dcolumn">
+-18000</div></div>
+<div class = "cell">
+<div class="dcolumn">
+-28800</div></div>
+<div class = "cell">
+<div class = "fcolumn">
+Fail</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Returns the correct offset between gmt and local in unix time.">testCase306</div></div>
+<div class = "cell">
+<div class="dcolumn">
+gmt2local</div></div>
+<div class = "cell">
+<div class="dcolumn">
+2147483648</div></div>
+<div class = "cell">
+<div class="dcolumn">
+-18000</div></div>
+<div class = "cell">
+<div class="dcolumn">
+-28800</div></div>
+<div class = "cell">
+<div class = "fcolumn">
+Fail</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Returns the correct offset between gmt and local in unix time.">testCase307</div></div>
+<div class = "cell">
+<div class="dcolumn">
+gmt2local</div></div>
+<div class = "cell">
+<div class="dcolumn">
+86399</div></div>
+<div class = "cell">
+<div class="dcolumn">
+-18000</div></div>
+<div class = "cell">
+<div class="dcolumn">
+-28800</div></div>
+<div class = "cell">
+<div class = "fcolumn">
+Fail</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Returns the correct offset between gmt and local in unix time.s">testCase308</div></div>
+<div class = "cell">
+<div class="dcolumn">
+gmt2local</div></div>
+<div class = "cell">
+<div class="dcolumn">
+15897600</div></div>
+<div class = "cell">
+<div class="dcolumn">
+-14400</div></div>
+<div class = "cell">
+<div class="dcolumn">
+-25200</div></div>
+<div class = "cell">
+<div class = "fcolumn">
+Fail</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Returns the correct offset between gmt and local in unix time when the current time is during daylight savings time.">testCase309</div></div>
+<div class = "cell">
+<div class="dcolumn">
+gmt2local</div></div>
+<div class = "cell">
+<div class="dcolumn">
+0</div></div>
+<div class = "cell">
+<div class="dcolumn">
+-14400</div></div>
+<div class = "cell">
+<div class="dcolumn">
+-28800</div></div>
+<div class = "cell">
+<div class = "fcolumn">
+Fail</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Does not compile if the correct parameters are not passed in.">testCase310</div></div>
+<div class = "cell">
+<div class="dcolumn">
+gmt2local</div></div>
+<div class = "cell">
+<div class="dcolumn">
+"a"</div></div>
+<div class = "cell">
+<div class="dcolumn">
+DNC</div></div>
+<div class = "cell">
+<div class="dcolumn">
+DNC</div></div>
+<div class = "cell">
+<div class = "pcolumn">
+Pass</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Returns the correct offset between gmt and local in unix time">testCase311</div></div>
+<div class = "cell">
+<div class="dcolumn">
+gmt2local</div></div>
+<div class = "cell">
+<div class="dcolumn">
+'a'</div></div>
+<div class = "cell">
+<div class="dcolumn">
+-18000</div></div>
+<div class = "cell">
+<div class="dcolumn">
+-28800</div></div>
+<div class = "cell">
+<div class = "fcolumn">
+Fail</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Returns the correct offset between gmt and local for the epoch (00:00:00, Jan 1, 1970).">testCase312</div></div>
+<div class = "cell">
+<div class="dcolumn">
+gmt2local</div></div>
+<div class = "cell">
+<div class="dcolumn">
+0</div></div>
+<div class = "cell">
+<div class="dcolumn">
+-18000</div></div>
+<div class = "cell">
+<div class="dcolumn">
+-28800</div></div>
+<div class = "cell">
+<div class = "fcolumn">
+Fail</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Returns a flat string from an array of strings.">testCase401</div></div>
+<div class = "cell">
+<div class="dcolumn">
+copy_argv</div></div>
+<div class = "cell">
+<div class="dcolumn">
+input</div></div>
+<div class = "cell">
+<div class="dcolumn">
+a a</div></div>
+<div class = "cell">
+<div class="dcolumn">
+a a</div></div>
+<div class = "cell">
+<div class = "pcolumn">
+Pass</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Does not compile if the correct parameters are not passed in.">testCase402</div></div>
+<div class = "cell">
+<div class="dcolumn">
+copy_argv</div></div>
+<div class = "cell">
+<div class="dcolumn">
+input</div></div>
+<div class = "cell">
+<div class="dcolumn">
+DNC</div></div>
+<div class = "cell">
+<div class="dcolumn">
+DNC</div></div>
+<div class = "cell">
+<div class = "pcolumn">
+Pass</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Returns a flat string from an array of strings.">testCase403</div></div>
+<div class = "cell">
+<div class="dcolumn">
+copy_argv</div></div>
+<div class = "cell">
+<div class="dcolumn">
+input</div></div>
+<div class = "cell">
+<div class="dcolumn">
+a a</div></div>
+<div class = "cell">
+<div class="dcolumn">
+a a</div></div>
+<div class = "cell">
+<div class = "pcolumn">
+Pass</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Returns a flat string from an array of strings.">testCase404</div></div>
+<div class = "cell">
+<div class="dcolumn">
+copy_argv</div></div>
+<div class = "cell">
+<div class="dcolumn">
+input</div></div>
+<div class = "cell">
+<div class="dcolumn">
+a aa</div></div>
+<div class = "cell">
+<div class="dcolumn">
+a aa</div></div>
+<div class = "cell">
+<div class = "pcolumn">
+Pass</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Returns a flat string from an array of strings.">testCase405</div></div>
+<div class = "cell">
+<div class="dcolumn">
+copy_argv</div></div>
+<div class = "cell">
+<div class="dcolumn">
+input</div></div>
+<div class = "cell">
+<div class="dcolumn">
+a </div></div>
+<div class = "cell">
+<div class="dcolumn">
+a </div></div>
+<div class = "cell">
+<div class = "pcolumn">
+Pass</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Does not compile if the correct parameters are not passed in.">testCase406</div></div>
+<div class = "cell">
+<div class="dcolumn">
+copy_argv</div></div>
+<div class = "cell">
+<div class="dcolumn">
+input</div></div>
+<div class = "cell">
+<div class="dcolumn">
+DNC</div></div>
+<div class = "cell">
+<div class="dcolumn">
+DNC</div></div>
+<div class = "cell">
+<div class = "pcolumn">
+Pass</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Returns if the function was able to copy a string.  0 = SNORT_STRNCPY_SUCCESS, 1 = SNORT_STRNCPY_TRUNCATION, -1 = SNORT_STRNCPY_ERROR.">testCase501</div></div>
+<div class = "cell">
+<div class="dcolumn">
+SnortStrncpy</div></div>
+<div class = "cell">
+<div class="dcolumn">
+dst,"Hello",3</div></div>
+<div class = "cell">
+<div class="dcolumn">
+1</div></div>
+<div class = "cell">
+<div class="dcolumn">
+1</div></div>
+<div class = "cell">
+<div class = "pcolumn">
+Pass</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Returns if the function was able to copy a string.  0 = SNORT_STRNCPY_SUCCESS, 1 = SNORT_STRNCPY_TRUNCATION, -1 = SNORT_STRNCPY_ERROR.">testCase502</div></div>
+<div class = "cell">
+<div class="dcolumn">
+SnortStrncpy</div></div>
+<div class = "cell">
+<div class="dcolumn">
+dst,"Hello",9</div></div>
+<div class = "cell">
+<div class="dcolumn">
+0</div></div>
+<div class = "cell">
+<div class="dcolumn">
+0</div></div>
+<div class = "cell">
+<div class = "pcolumn">
+Pass</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Returns a flat string from an array of strings.">testCase503</div></div>
+<div class = "cell">
+<div class="dcolumn">
+SnortStrncpy</div></div>
+<div class = "cell">
+<div class="dcolumn">
+"Hello",9</div></div>
+<div class = "cell">
+<div class="dcolumn">
+DNC</div></div>
+<div class = "cell">
+<div class="dcolumn">
+DNC</div></div>
+<div class = "cell">
+<div class = "pcolumn">
+Pass</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Does not compile if the correct parameters are not passed in.">testCase504</div></div>
+<div class = "cell">
+<div class="dcolumn">
+SnortStrncpy</div></div>
+<div class = "cell">
+<div class="dcolumn">
+dst,9</div></div>
+<div class = "cell">
+<div class="dcolumn">
+DNC</div></div>
+<div class = "cell">
+<div class="dcolumn">
+DNC</div></div>
+<div class = "cell">
+<div class = "pcolumn">
+Pass</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Returns if the function was able to copy a string.  0 = SNORT_STRNCPY_SUCCESS, 1 = SNORT_STRNCPY_TRUNCATION, -1 = SNORT_STRNCPY_ERROR.">testCase505</div></div>
+<div class = "cell">
+<div class="dcolumn">
+SnortStrncpy</div></div>
+<div class = "cell">
+<div class="dcolumn">
+dst,"Hello",6</div></div>
+<div class = "cell">
+<div class="dcolumn">
+0</div></div>
+<div class = "cell">
+<div class="dcolumn">
+0</div></div>
+<div class = "cell">
+<div class = "pcolumn">
+Pass</div></div>
+<div class = "cell">
+<div class="dcolumn" data-ot="Requirement: 
+Returns if the function was able to copy a string.  0 = SNORT_STRNCPY_SUCCESS, 1 = SNORT_STRNCPY_TRUNCATION, -1 = SNORT_STRNCPY_ERROR.">testCase506</div></div>
+<div class = "cell">
+<div class="dcolumn">
+SnortStrncpy</div></div>
+<div class = "cell">
+<div class="dcolumn">
+dst,"Hello",0</div></div>
+<div class = "cell">
+<div class="dcolumn">
+-1</div></div>
+<div class = "cell">
+<div class="dcolumn">
+-1</div></div>
+<div class = "cell">
+<div class = "pcolumn">
+Pass</div></div>
+</div>
+</body>
+</html>

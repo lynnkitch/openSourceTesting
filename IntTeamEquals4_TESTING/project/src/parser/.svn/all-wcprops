@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/parser
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/parser/Makefile.am
+END
+IpAddrSet.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/parser/IpAddrSet.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/parser/Makefile.in
+END
+IpAddrSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/parser/IpAddrSet.h
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/tools/control
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/tools/control/Makefile.am
+END
+sfcontrol.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/tools/control/sfcontrol.c
+END
+README.snort_control
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/tools/control/README.snort_control
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/tools/control/Makefile.in
+END

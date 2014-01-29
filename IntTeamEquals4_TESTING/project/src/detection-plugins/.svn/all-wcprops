@@ -1,0 +1,497 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins
+END
+sp_base64_decode.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_base64_decode.c
+END
+sp_flowbits.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_flowbits.c
+END
+sp_pattern_match.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_pattern_match.c
+END
+sp_isdataat.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_isdataat.c
+END
+sp_asn1_detect.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_asn1_detect.c
+END
+sp_base64_decode.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_base64_decode.h
+END
+sp_pattern_match.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_pattern_match.h
+END
+sp_byte_jump.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_byte_jump.c
+END
+sp_flowbits.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_flowbits.h
+END
+sp_asn1_detect.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_asn1_detect.h
+END
+sp_isdataat.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_isdataat.h
+END
+sp_byte_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_byte_check.c
+END
+sp_asn1.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_asn1.c
+END
+sp_byte_jump.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_byte_jump.h
+END
+sp_byte_check.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_byte_check.h
+END
+sp_asn1.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_asn1.h
+END
+sp_ip_same_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_ip_same_check.c
+END
+sp_ip_same_check.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_ip_same_check.h
+END
+sp_icmp_code_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_icmp_code_check.c
+END
+sp_ip_id_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_ip_id_check.c
+END
+sp_icmp_code_check.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_icmp_code_check.h
+END
+sp_ftpbounce.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_ftpbounce.c
+END
+sp_ip_id_check.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_ip_id_check.h
+END
+sp_icmp_type_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_icmp_type_check.c
+END
+sp_pcre.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_pcre.c
+END
+sp_ftpbounce.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_ftpbounce.h
+END
+sp_icmp_type_check.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_icmp_type_check.h
+END
+sp_ip_proto.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_ip_proto.c
+END
+sp_respond3.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_respond3.c
+END
+sp_ipoption_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_ipoption_check.c
+END
+sp_pcre.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_pcre.h
+END
+sp_react.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_react.c
+END
+sp_ip_proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_ip_proto.h
+END
+sp_ipoption_check.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_ipoption_check.h
+END
+sp_react.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_react.h
+END
+sp_replace.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_replace.c
+END
+sp_tcp_flag_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_tcp_flag_check.c
+END
+sp_replace.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_replace.h
+END
+sp_tcp_flag_check.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_tcp_flag_check.h
+END
+sp_rpc_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_rpc_check.c
+END
+sp_session.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_session.c
+END
+sp_rpc_check.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_rpc_check.h
+END
+detection_options.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/detection_options.c
+END
+sp_pkt_data.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_pkt_data.c
+END
+sp_session.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_session.h
+END
+sp_ip_fragbits.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_ip_fragbits.c
+END
+sp_ip_tos_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_ip_tos_check.c
+END
+sp_urilen_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_urilen_check.c
+END
+sp_tcp_seq_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_tcp_seq_check.c
+END
+sp_pkt_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_pkt_data.h
+END
+detection_options.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/detection_options.h
+END
+sp_byte_extract.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_byte_extract.c
+END
+sp_ip_fragbits.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_ip_fragbits.h
+END
+sp_ip_tos_check.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_ip_tos_check.h
+END
+sp_tcp_seq_check.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_tcp_seq_check.h
+END
+sp_tcp_win_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_tcp_win_check.c
+END
+sp_ttl_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_ttl_check.c
+END
+sp_urilen_check.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_urilen_check.h
+END
+sp_icmp_id_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_icmp_id_check.c
+END
+sp_byte_extract.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_byte_extract.h
+END
+sp_tcp_win_check.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_tcp_win_check.h
+END
+sp_ttl_check.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_ttl_check.h
+END
+sp_clientserver.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_clientserver.c
+END
+sp_icmp_id_check.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_icmp_id_check.h
+END
+sp_clientserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_clientserver.h
+END
+sp_base64_data.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_base64_data.c
+END
+sp_base64_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_base64_data.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/Makefile.am
+END
+sp_hdr_opt_wrap.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_hdr_opt_wrap.c
+END
+sp_cvs.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_cvs.c
+END
+sp_hdr_opt_wrap.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_hdr_opt_wrap.h
+END
+sp_icmp_seq_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_icmp_seq_check.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/Makefile.in
+END
+sp_cvs.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_cvs.h
+END
+sp_tcp_ack_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_tcp_ack_check.c
+END
+sp_icmp_seq_check.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_icmp_seq_check.h
+END
+sp_tcp_ack_check.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_tcp_ack_check.h
+END
+sp_file_data.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_file_data.c
+END
+sp_dsize_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_dsize_check.c
+END
+sp_file_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_file_data.h
+END
+sp_respond.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_respond.h
+END
+sp_dsize_check.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/detection-plugins/sp_dsize_check.h
+END

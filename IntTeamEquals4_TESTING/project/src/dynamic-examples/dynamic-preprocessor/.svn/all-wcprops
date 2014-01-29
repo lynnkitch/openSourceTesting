@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-examples/dynamic-preprocessor
+END
+spp_example.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-examples/dynamic-preprocessor/spp_example.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-examples/dynamic-preprocessor/Makefile.in
+END
+sf_preproc_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-examples/dynamic-preprocessor/sf_preproc_info.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/dynamic-examples/dynamic-preprocessor/Makefile.am
+END

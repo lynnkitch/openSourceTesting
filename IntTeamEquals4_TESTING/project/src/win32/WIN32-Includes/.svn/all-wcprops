@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/win32/WIN32-Includes
+END
+gnuc.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/win32/WIN32-Includes/gnuc.h
+END
+pcreposix.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/win32/WIN32-Includes/pcreposix.h
+END
+inttypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/win32/WIN32-Includes/inttypes.h
+END
+syslog.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/win32/WIN32-Includes/syslog.h
+END
+getopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/win32/WIN32-Includes/getopt.h
+END
+getopt1.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/win32/WIN32-Includes/getopt1.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/win32/WIN32-Includes/config.h
+END
+stdint.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/win32/WIN32-Includes/stdint.h
+END
+unistd.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/win32/WIN32-Includes/unistd.h
+END
+pcre.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/win32/WIN32-Includes/pcre.h
+END

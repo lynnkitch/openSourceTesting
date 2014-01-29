@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/include
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/include/Makefile.in
+END
+hi_stateful_inspect.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/include/hi_stateful_inspect.h
+END
+hi_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/include/hi_util.h
+END
+hi_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/include/hi_client.h
+END
+hi_include.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/include/hi_include.h
+END
+hi_ad.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/include/hi_ad.h
+END
+hi_ui_iis_unicode_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/include/hi_ui_iis_unicode_map.h
+END
+hi_reqmethod_check.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/include/hi_reqmethod_check.h
+END
+hi_client_stateful.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/include/hi_client_stateful.h
+END
+hi_util_kmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/include/hi_util_kmap.h
+END
+hi_eo_events.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/include/hi_eo_events.h
+END
+hi_return_codes.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/include/hi_return_codes.h
+END
+hi_cmd_lookup.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/include/hi_cmd_lookup.h
+END
+hi_ui_server_lookup.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/include/hi_ui_server_lookup.h
+END
+hi_util_xmalloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/include/hi_util_xmalloc.h
+END
+hi_uri.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/include/hi_uri.h
+END
+hi_server_norm.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/include/hi_server_norm.h
+END
+hi_ui_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/include/hi_ui_config.h
+END
+hi_eo.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/include/hi_eo.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/include/Makefile.am
+END
+hi_util_hbm.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/include/hi_util_hbm.h
+END
+hi_eo_log.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/include/hi_eo_log.h
+END
+hi_mi.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/include/hi_mi.h
+END
+hi_paf.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/include/hi_paf.h
+END
+hi_server.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/include/hi_server.h
+END
+hi_client_norm.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/include/hi_client_norm.h
+END
+hi_norm.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/include/hi_norm.h
+END
+hi_si.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/preprocessors/HttpInspect/include/hi_si.h
+END

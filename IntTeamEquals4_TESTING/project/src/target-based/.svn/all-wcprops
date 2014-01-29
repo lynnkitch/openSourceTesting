@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/target-based
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/target-based/Makefile.am
+END
+sf_attribute_table.y
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/target-based/sf_attribute_table.y
+END
+sf_attribute_table_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/target-based/sf_attribute_table_parser.c
+END
+sftarget_hostentry.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/target-based/sftarget_hostentry.c
+END
+sftarget_protocol_reference.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/target-based/sftarget_protocol_reference.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/target-based/Makefile.in
+END
+sftarget_reader.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/target-based/sftarget_reader.c
+END
+sf_attribute_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/target-based/sf_attribute_table.c
+END
+sftarget_hostentry.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/target-based/sftarget_hostentry.h
+END
+sftarget_protocol_reference.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/target-based/sftarget_protocol_reference.h
+END
+sftarget_reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/target-based/sftarget_reader.h
+END
+sf_attribute_table_parser.l
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/target-based/sf_attribute_table_parser.l
+END

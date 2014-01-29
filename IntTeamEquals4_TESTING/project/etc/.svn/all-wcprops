@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/etc
+END
+threshold.conf
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/etc/threshold.conf
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/etc/Makefile.in
+END
+reference.config
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/etc/reference.config
+END
+unicode.map
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/etc/unicode.map
+END
+attribute_table.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/etc/attribute_table.dtd
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/etc/Makefile.am
+END
+gen-msg.map
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/etc/gen-msg.map
+END
+snort.conf
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/etc/snort.conf
+END
+classification.config
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/etc/classification.config
+END

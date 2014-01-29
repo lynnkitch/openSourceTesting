@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/side-channel/plugins
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/side-channel/plugins/Makefile.in
+END
+sscm_logger.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/side-channel/plugins/sscm_logger.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/side-channel/plugins/Makefile.am
+END
+sscm_logger.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/src/side-channel/plugins/sscm_logger.h
+END

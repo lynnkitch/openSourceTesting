@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/templates
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/templates/Makefile.am
+END
+sp_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/templates/sp_template.c
+END
+spp_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/templates/spp_template.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/templates/Makefile.in
+END
+sp_template.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/templates/sp_template.h
+END
+spp_template.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/CSCI362201302/!svn/ver/200/team4/IntTeamEquals4_TESTING/project/templates/spp_template.h
+END
